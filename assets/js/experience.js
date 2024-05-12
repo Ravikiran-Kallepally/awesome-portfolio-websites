@@ -9,22 +9,16 @@ const exp = [
     cardImage: "assets/images/experience-page/Velocity Logo.jpg",
     place: "Velocity IT",
     time: "(May, 2022 - June, 2023)",
-    desp: "<li>Implemented key Node.js features, boosting user engagement by 15% and app responsiveness by 20%.</li><li>Resolved critical issues, reducing post-release defects by 25% for enhanced software stability.</li> <li>Restructured code strategically, cutting server response time by 30% through resource optimization</li>",
+    desp: "<li>Implemented key Node.js features, boosting user engagement by 15% and app responsiveness by 20%.</li><li>Resolved critical issues, reducing post-release defects by 25% for enhanced software stability.</li> <li>Restructured code strategically, cutting server response time by 30% through resource optimization.</li>",
   },
   {
-    title: "Student Developer",
-    cardImage: "assets/images/experience-page/gsoc.png",
-    place: "Google Summer Of Code",
-    time: "(Mar - Aug, 2019)",
-    desp: "<li>Worked with MOZILLA as a part of Google Summer Of Code.</li><li>Worked on Extension Activity Monitor which is a privileged extension for Firefox that uses the activityLog API (privileged API) to monitor the activities of the other installed extensions.</li><li>The activityLog API listens for logs from other installed extensions.</li>",
-  },
-  {
-    title: "Research Intern",
-    cardImage: "assets/images/experience-page/IIT_Bombay.jpg",
-    place: "IIT, Bombay",
-    time: "(Dec, 19 - Jan, 20)",
-    desp: "<li>Worked on the project “LTI (Learning Tools Interoperability) 2.0 standards Implementation for ekShiksha.</li><li>Designed a software that would help faculty to create a quiz using the questions from the database based on his/her choice of topics and he should be provided with various facilities and options to create a quiz of his choice.</li>",
-  },
+    title: "Software Engineer",
+    cardImage: "assets/images/experience-page/Trier Health Logo.svg",
+    place: "Trier Health",
+    time: "(July, 2019 - April, 2022)",
+    desp: "<li>Integrated Amazon Chime for seamless video chat, boosting customer engagement by 22%.</li><li>Utilized Node.js APIs to convert Amazon S3 links into audio components for a blockchain-based web app.</li><li>Led Config Console development, reducing client onboarding time by 40% and enhancing data security.</li>",
+  }
+ 
 ];
 
 const showCards2 = () => {
