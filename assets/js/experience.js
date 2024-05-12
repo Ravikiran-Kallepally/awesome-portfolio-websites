@@ -5,11 +5,11 @@ AOS.init();
 const experiencecards = document.querySelector(".experience-cards");
 const exp = [
   {
-    title: "Software Development Intern",
-    cardImage: "assets/images/experience-page/flipkart.jpg",
-    place: "Flipkart",
-    time: "(May, 2020 - present)",
-    desp: "<li>Worked to migrate Flipkart lite’s product page to AMP pages so that they load up instantly.</li> <li>Made changes in the current progressive web app of Flipkart to react to different actions performed on AMP page.</li> <li>Created a node module called “fk-amp” which abstracts all the files and middlewares and can be easily imported and used from express server.</li>",
+    title: "Software Engineer",
+    cardImage: "assets/images/experience-page/Velocity Logo.jpg",
+    place: "Velocity IT",
+    time: "(May, 2022 - June, 2023)",
+    desp: "<li>Implemented key Node.js features, boosting user engagement by 15% and app responsiveness by 20%.</li><li>Resolved critical issues, reducing post-release defects by 25% for enhanced software stability.</li> <li>Restructured code strategically, cutting server response time by 30% through resource optimization</li>",
   },
   {
     title: "Student Developer",
